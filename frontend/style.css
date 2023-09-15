@@ -4,8 +4,14 @@ body {
 
 h1 {
     color: brown;
+   
 }
 
 p {
     color: blueviolet;
+}
+
+img {
+    width: 400px;
+    height: 300px;
 }
